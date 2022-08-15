@@ -7,3 +7,4 @@ https://www.f150online.com/forums/pre-1997-models/480225-95-f150-obd-scan-port-l
 
 # Guide:
 - [How to Read OBD1 Codes on Pre-96 Ford F150](https://youtu.be/cVFpQkl0mnY)
+- [Diagnose Your F150 With a Paperclip - IACV / Oxygen Sensor Install](https://youtu.be/bQB9D5MKaQ8)
